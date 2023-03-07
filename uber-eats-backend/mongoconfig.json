@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://admin_course_connect:OqLZecbygQeRnlF7@courseconnectdb.mrvtmho.mongodb.net/?retryWrites=true&w=majority"
+  }
